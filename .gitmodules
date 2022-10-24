@@ -1,0 +1,4 @@
+[submodule "git-submodule-example-sub1"]
+	path = source/submodules/git-submodule-example-sub1
+	url = https://github.com/bqstony/git-submodule-example-sub1.git
+	branch = main
